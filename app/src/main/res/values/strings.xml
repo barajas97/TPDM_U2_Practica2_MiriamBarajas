@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TPDM_U2_Practica2_MiriamJanethBarajasLopez</string>
+    <string-array name="seguros">
+        <item>Seleccionar</item>
+        <item>Casa</item>
+        <item>Auto</item>
+        <item>Médico</item>
+    </string-array>
+</resources>
